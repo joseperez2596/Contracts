@@ -33,7 +33,7 @@
 
 - [ ] Tram Pass
 - [ ] Lumafly Lantern
-- [ ] Map and Quill
+- [x] Map and Quill
 - [ ] Hunter's Journal
 
 ### Nail Arts
@@ -51,7 +51,7 @@
 
 ### Mask Shars / Vessel Fragments
 
-- [ ] Mask Shard 1
+- [x] Mask Shard 1
 - [ ] Mask Shard 2
 - [ ] Mask Shard 3
 - [ ] Mask Shard 4
@@ -80,15 +80,15 @@
 
 ### Charms
 
-- [ ] Wayward Compass
-- [ ] Gathering Swarm
+- [x] Wayward Compass
+- [x] Gathering Swarm
 - [ ] Stalwart Shell
 - [ ] Soul Catcher
 - [ ] Shaman Stone
 - [ ] Soul Eater
 - [ ] Dashmaster
 - [ ] Thorns of Agony
-- [ ] Fury of the Fallen
+- [x] Fury of the Fallen
 - [ ] Fragile Heart / Grimm Troupe Icon Unbreakable Heart
 - [ ] Fragile Greed / Grimm Troupe Icon Unbreakable Greed
 - [ ] Fragile Strength / Grimm Troupe Icon Unbreakable Strength
